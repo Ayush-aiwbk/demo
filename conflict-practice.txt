@@ -1,2 +1,3 @@
 Conflict practice
 Topic: resolved manually in the editor.
+Decision: keep the local wording and note the alternate on the second branch.
