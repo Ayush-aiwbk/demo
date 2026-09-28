@@ -1,2 +1,2 @@
 Conflict practice
-Topic: original line from the starting commit.
+Topic: alternate change from the second branch.
